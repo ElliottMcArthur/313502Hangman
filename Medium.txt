@@ -1,0 +1,8 @@
+﻿truck
+brick
+block
+circle
+chair
+strings
+sharp 
+today
